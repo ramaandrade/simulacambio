@@ -1,5 +1,7 @@
 # 💵 SimulaCâmbio — Câmbio e Política Cambial no Brasil
 
+> 🌐 **Acesso Online (GitHub Pages):** [https://ramaandrade.github.io/simulacambio/](https://ramaandrade.github.io/simulacambio/)  
+> 📦 **Repositório GitHub:** [https://github.com/ramaandrade/simulacambio](https://github.com/ramaandrade/simulacambio)  
 > 🏛️ **Aplicativo Web Educacional (SPA)** voltado para estudantes de graduação em Finanças, Economia, Administração e Ciências Contábeis.  
 > ⚖️ Ancorado rigorosamente na legislação brasileira: **Lei Federal nº 14.286/2021 (Novo Marco Legal do Câmbio)**, regulamentações do **Banco Central do Brasil (BCB)** e do **Conselho Monetário Nacional (CMN)**.
 
