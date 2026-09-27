@@ -1,0 +1,26 @@
+{
+  "name": "simulacambio",
+  "version": "1.0.0",
+  "description": "SimulaCâmbio — Simulador Educativo de Câmbio e Política Cambial no Brasil",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests/simulation.test.js"
+  },
+  "keywords": [
+    "cambio",
+    "banco-central",
+    "bcb",
+    "politica-cambial",
+    "ptax",
+    "swaps-cambiais",
+    "reservas-internacionais",
+    "vet",
+    "hedge",
+    "tripe-macroeconomico",
+    "educacao-financeira",
+    "macroeconomia"
+  ],
+  "author": "Google DeepMind Agentic Coding & SimulaCâmbio Team",
+  "license": "MIT"
+}
